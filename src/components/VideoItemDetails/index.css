@@ -1,0 +1,84 @@
+.dark-react-icons {
+  align-self: center;
+  margin: 5px;
+  font-size: 20px;
+  color: #f9f9f9;
+}
+.light-react-icons {
+  align-self: center;
+  margin: 5px;
+  font-size: 20px;
+  color: #181818;
+}
+.like-button {
+  color: #2563eb;
+}
+.dark-description {
+  font-weight: bold;
+  align-self: center;
+  margin: 5px;
+  font-size: 20px;
+  color: #f9f9f9;
+}
+.light-description {
+  align-self: center;
+  margin: 5px;
+  font-size: 17px;
+  color: #181818;
+}
+.like-description {
+  color: #2563eb;
+}
+.dislike-description {
+  color: #2563eb;
+}
+.save-descriptionF {
+  color: #64748b;
+}
+.save-button {
+  width: 30%;
+  margin-right: 30px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  align-self: center;
+  background-color: transparent;
+  border-style: none;
+  border-width: 0px;
+}
+.save-react-icon {
+  color: #2563eb;
+  align-self: center;
+  margin: 5px;
+  font-size: 15px;
+}
+.dark-description {
+  color: #f9f9f9;
+  font-size: 15px;
+}
+.light-description {
+  color: #181818;
+  font-size: 15px;
+}
+.save-description {
+  color: #2563eb;
+  font-size: 15px;
+}
+
+.hr-line {
+  width: 94%;
+  margin-right: 100px;
+}
+.videos-bg-context-container {
+  display: flex;
+
+  height: 50vh;
+  width: 94%;
+  margin-right: 100px;
+  margin-top: 20px;
+}
+.video-profile-logo {
+  height: 70px;
+  margin-right: 20px;
+  margin-top: 10px;
+}

@@ -1,0 +1,16 @@
+.link-decoration {
+  text-decoration: none;
+}
+.no-videos-bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.no-videos-image {
+  height: 200px;
+}
+.saved-list {
+  background-color: red;
+}
